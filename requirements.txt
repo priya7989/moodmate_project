@@ -1,3 +1,8 @@
 transformers
 torch
+fastapi
+uvicorn
+pydantic
+python-multipart
+
 
